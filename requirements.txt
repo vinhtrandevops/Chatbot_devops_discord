@@ -1,0 +1,7 @@
+discord.py>=2.0.0
+python-dotenv>=0.19.0
+boto3>=1.26.0
+APScheduler>=3.10.4
+pytz==2024.1
+kubernetes==29.0.0
+PyYAML==6.0.1
